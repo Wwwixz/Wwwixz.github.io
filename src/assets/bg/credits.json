@@ -1,0 +1,98 @@
+{
+  "elephant": {
+    "file": "src/assets/bg/elephant.jpg",
+    "title": "Makalali Game Reserve (ZA), Sonnenuntergang -- 2024 -- 1713.jpg",
+    "author": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Makalali_Game_Reserve_(ZA),_Sonnenuntergang_--_2024_--_1713.jpg",
+    "bytes": 282495
+  },
+  "zebra": {
+    "file": "src/assets/bg/zebra.jpg",
+    "title": "Zebras, Serengeti savana plains, Tanzania.jpg",
+    "author": "Gary",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Zebras,_Serengeti_savana_plains,_Tanzania.jpg",
+    "bytes": 686032
+  },
+  "nile": {
+    "file": "src/assets/bg/nile.jpg",
+    "title": "Aswan01(js).jpg",
+    "author": "Jerzy Strzelecki",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Aswan01(js).jpg",
+    "bytes": 663340
+  },
+  "mountain": {
+    "file": "src/assets/bg/mountain.jpg",
+    "title": "Mt. Kilimanjaro 12.2006.jpg",
+    "author": "—",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mt._Kilimanjaro_12.2006.jpg",
+    "bytes": 629437
+  },
+  "desert": {
+    "file": "src/assets/bg/desert.jpg",
+    "title": "Erg Chebbi in the evening light.jpg",
+    "author": "Thomas Fuhrmann",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Erg_Chebbi_in_the_evening_light.jpg",
+    "bytes": 260583
+  },
+  "coast": {
+    "file": "src/assets/bg/coast.jpg",
+    "title": "Simon’s Town (ZA), Boulders Beach, Penguin Colony -- 2024 -- 3408.jpg",
+    "author": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Simon%E2%80%99s_Town_(ZA),_Boulders_Beach,_Penguin_Colony_--_2024_--_3408.jpg",
+    "bytes": 1160298
+  },
+  "volcano": {
+    "file": "src/assets/bg/volcano.jpg",
+    "title": "Lava Lake Nyiragongo 2.jpg",
+    "author": "Cai Tjeenk Willink (Caitjeenk)",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Lava_Lake_Nyiragongo_2.jpg",
+    "bytes": 441253
+  },
+  "jungle": {
+    "file": "src/assets/bg/jungle.jpg",
+    "title": "Mountain gorilla (Gorilla beringei beringei) eating.jpg",
+    "author": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mountain_gorilla_(Gorilla_beringei_beringei)_eating.jpg",
+    "bytes": 532662
+  },
+  "baobab": {
+    "file": "src/assets/bg/baobab.jpg",
+    "title": "Avenue of the baobabs at sunrise blue and gold madagascar.jpg",
+    "author": "Paolo Crosetto (Lonesome:Cycler)",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Avenue_of_the_baobabs_at_sunrise_blue_and_gold_madagascar.jpg",
+    "bytes": 145175
+  },
+  "island": {
+    "file": "src/assets/bg/island.jpg",
+    "title": "A la nuit tombée (Manguily, Madagascar).jpg",
+    "author": "indeepdark",
+    "license": "CC BY-SA 1.0",
+    "page": "https://commons.wikimedia.org/wiki/File:A_la_nuit_tomb%C3%A9e_(Manguily,_Madagascar).jpg",
+    "bytes": 428982
+  },
+  "lion": {
+    "file": "src/assets/bg/lion.jpg",
+    "title": "Serengeti Lion 1.jpg",
+    "author": "Schuyler Shepherd (Unununium272)",
+    "license": "CC BY-SA 2.5",
+    "page": "https://commons.wikimedia.org/wiki/File:Serengeti_Lion_1.jpg",
+    "bytes": 612679
+  },
+  "giraffe": {
+    "file": "src/assets/bg/giraffe.jpg",
+    "title": "Masi mara sunset and giraffe - panoramio.jpg",
+    "author": "LindaPatterson",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Masi_mara_sunset_and_giraffe_-_panoramio.jpg",
+    "bytes": 242999
+  }
+}
